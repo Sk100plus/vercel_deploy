@@ -81,14 +81,14 @@ static propsTypes={
  
   async updateNews(pageNo){
     this.props.setProgress(0);
-    // a6f2b1cabfa548999b4e6fb901647656
+    // a6f2b1cabfa548999b4e6fb901647656`
     let url=`https://newsapi.org/v2/top-headlines?country=us&apiKey=a6f2b1cabfa548999b4e6fb901647656`;
     this.setState({    loading:true,});
     let data=await fetch(url);
   let parseData=await data.json();
   this.setState({
-    articles:parseData.articles,
-    totalResults:parseData.totalResults,
+    articles:this.articles,
+    // totalResults:parseData.totalResults,
   loading:false,
 
   });

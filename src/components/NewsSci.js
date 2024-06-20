@@ -88,7 +88,7 @@ static propsTypes={
   let parseData=await data.json()
   console.log(parseData);
   this.setState({
-    articles:parseData.articles,
+    articles:this.articles,
     totalResults:parseData.totalResults,
   loading:false,
 
