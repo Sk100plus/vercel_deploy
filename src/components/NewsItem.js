@@ -13,7 +13,7 @@ const NewsItem=(props)=> {
         <div  className=" card postion-relative" style={{ width: "18rem" }}>
         <span className="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger text-light" style={{right:"0"}}>
 {sources}  </span>
-          <img src={imageurl} className="card-img-top" alt="..." />
+          <img src={imageurl} className="card-img-top" alt="..." width="150px" height="180px"/>
           <div className="card-body ">
             <h5 className="card-title">{title}
         </h5>

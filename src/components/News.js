@@ -33,45 +33,266 @@ static propsTypes={
     return word.charAt(0).toUpperCase() + word.slice(1);
 }
   articles=[
-        {
-            "source": {
-                "id": null,
-                "name": "CNET"
-            },
-            "author": "Zachary McAuliffe",
-            "title": "This iOS 17 Feature Blocks Unsolicited Nudes on Your iPhone - CNET",
-            "description": "The feature works in Apple services, like Messages and AirDrop.",
-            "url": "https://www.cnet.com/tech/services-and-software/this-ios-17-feature-blocks-unsolicited-nudes-on-your-iphone/",
-            "urlToImage": "https://www.cnet.com/a/img/resize/32c24538cfcb439859a182df9b509a6e4086b657/hub/2023/10/17/95bd467a-3783-4698-b495-57ea3d853554/gettyimages-1676557935.jpg?auto=webp&fit=crop&height=675&width=1200",
-            "publishedAt": "2023-10-29T11:00:07Z",
-            "content": "Apple released iOS 17 on Sept. 18, and the OS included a handful of fun new features and improvements, like Live Stickers and offline maps. But one new feature included in iOS 17 is designed to help … [+1837 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "MacRumors"
-            },
-            "author": "Tim Hardwick",
-            "title": "Google to present its star witness, the company's CEO",
-            "description": "The Justice Department has wrapped its side of the case. Now Google's CEO Sundar Pichai .",
-            "url": "https://www.macrumors.com/how-to/watch-apple-scary-fast-event-oct-30/",
-            "urlToImage": "https://images.macrumors.com/t/VhHL8uudSicebz0hNvLrkW_TNCY=/2500x/article-new/2023/10/Which-Day-to-Watch-Scary-Fast-Event-Feature-1-2.jpg",
-            "publishedAt": "2023-10-29T11:00:00Z",
-            "content": "Apple is hosting an online streaming event for the public and press on Monday, October 30, 2023 at 5:00 p.m. Pacific Time. The company is expected to announce new Macs, and potentially other products… [+4097 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "NPR"
-            },
-            "author": "Dara Kerr",
-            "title": "Google to present its star witness, the company's CEO",
-            "description": "The Justice Department has wrapped its side of the case. Now Google's CEO Sundar Pichai .",
-            "url": "https://www.npr.org/2023/10/29/1208928441/google-to-present-its-star-witness-the-companys-ceo-in-landmark-monopoly-trial",
-            "urlToImage": "https://media.npr.org/assets/img/2023/10/26/gettyimages-1493187008_wide-63ac182b273bf351c94c50bb2a90c5a1ccb92b26-s1400-c100.jpg",
-            "publishedAt": "2023-10-29T11:00:48Z",
-            "content": "Alphabet and Google CEO Sundar Pichai is set to testify in major antitrust trial brought by the Department of Justice.\r\nBoris Streubel/Getty Images for DFB\r\nFor the past six weeks, the Justice Depart… [+6444 chars]"
-        },
+    {
+      "source": {
+          "id": "google-news",
+          "name": "Google News"
+      },
+      "author": "The Indian Express",
+      "title": "South Africa vs United States LIVE Score, T20 World Cup 2024: Kagiso Rabada snaps three wickets as SA beat USA by 18 runs - The Indian Express",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipwFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvc3BvcnRzL2NyaWNrZXQvc291dGgtYWZyaWNhLXZzLXVuaXRlZC1zdGF0ZXMtbGl2ZS1zY29yZS10MjAtd29ybGQtY3VwLTIwMjQtbWF0Y2gtNDEtdG9kYXktc2EtdnMtdXNhLWxhdGVzdC1zY29yZWNhcmQtdXBkYXRlcy05NDAxMzczL9IBAA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-19T18:17:35Z",
+      "content": null
+  },
+  {
+      "source": {
+          "id": "google-news",
+          "name": "Google News"
+      },
+      "author": "Hindustan Times",
+      "title": "NEET row: Education Ministry seeks report from Bihar police over paper lead claims - Hindustan Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMikAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9uZWV0LXJvdy1lZHVjYXRpb24tbWluaXN0cnktc2Vla3MtcmVwb3J0LWZyb20tYmloYXItcG9saWNlLW92ZXItcGFwZXItbGVhZC1jbGFpbXMtMTAxNzE4ODE3NDQxNDM4Lmh0bWzSAZQBaHR0cHM6Ly93d3cuaGluZHVzdGFudGltZXMuY29tL2luZGlhLW5ld3MvbmVldC1yb3ctZWR1Y2F0aW9uLW1pbmlzdHJ5LXNlZWtzLXJlcG9ydC1mcm9tLWJpaGFyLXBvbGljZS1vdmVyLXBhcGVyLWxlYWQtY2xhaW1zLTEwMTcxODgxNzQ0MTQzOC1hbXAuaHRtbA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-19T17:44:53Z",
+      "content": null
+  },
+  {
+      "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+      },
+      "author": "TOI Sports Desk",
+      "title": "Rahul Dravid drops a big hint ahead of the Afghanistan game in T20 World Cup, says... - The Times of India",
+      "description": "Rahul Dravid, the head coach of the Indian team, hinted at the possibility of selecting either Kuldeep Yadav or Yuzvendra Chahal in the starting lineu",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/rahul-dravid-drops-a-big-hint-ahead-of-the-afghanistan-game-in-t20-world-cup-says-/articleshow/111120376.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111120344,width-1070,height-580,imgsize-32528,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-19T17:41:00Z",
+      "content": null
+  },
+  {
+      "source": {
+          "id": "google-news",
+          "name": "Google News"
+      },
+      "author": "The Hindu",
+      "title": "Education Ministry orders cancellation of UGC-NET - The Hindu",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9lZHVjYXRpb24vZWR1Y2F0aW9uLW1pbmlzdHJ5LW9yZGVycy1jYW5jZWxsYXRpb24tb2YtdWdjLW5ldC9hcnRpY2xlNjgzMDkzMjMuZWNl0gFtaHR0cHM6Ly93d3cudGhlaGluZHUuY29tL2VkdWNhdGlvbi9lZHVjYXRpb24tbWluaXN0cnktb3JkZXJzLWNhbmNlbGxhdGlvbi1vZi11Z2MtbmV0L2FydGljbGU2ODMwOTMyMy5lY2UvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-19T17:28:00Z",
+      "content": null
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "NDTV News"
+      },
+      "author": "NDTV Sports Desk",
+      "title": "Germany vs Hungary LIVE, UEFA Euro 2024: Jamal Musiala Scores, Germany 1-0 Hungary - NDTV Sports",
+      "description": "Germany vs Hungary Highlights, Euro 2024: Jamal Musiala and Ilkay Gundogan got their names on the scoresheet as Germany beat Hungary 2-0 in their Group A match at Stuttgart Arena.",
+      "url": "https://sports.ndtv.com/uefa-euro-2024/germany-vs-hungary-live-score-group-a-football-match-live-scorecard-5925408",
+      "urlToImage": "https://c.ndtvimg.com/2024-06/tpa9jni_ilkay-gundogan-afp_625x300_19_June_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+      "publishedAt": "2024-06-19T17:06:50Z",
+      "content": "Germany vs Hungary Highlights, Euro 2024: Jamal Musiala and Ilkay Gundogan got their names on the scoresheet as Germany beat Hungary 2-0 in their Group A match at Stuttgart Arena. Musiala put Germany… [+583 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Hindustan Times"
+      },
+      "author": "Zia Haq",
+      "title": "Govt raises MSPs for kharif season, focus on pulses, oilseeds - Hindustan Times",
+      "description": "Farmers are currently preparing to plant a range of crops, such as rice, soybean, pulses, cotton and sugarcane, which depend on the June-September monsoon system | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/govt-raises-msps-for-kharif-season-focus-on-pulses-oilseeds-101718814726150.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/19/1600x900/Farmers-harvesting-the-wheat-crop-in-Jaspal-Bangar_1718814678307.jpg",
+      "publishedAt": "2024-06-19T16:32:05Z",
+      "content": "NEW DELHI: The Union Cabinet, chaired by Prime Minister Narendra Modi days into the start of his third term, on Wednesday approved raising minimum support prices (MSPs) for an array of kharif, or sum… [+3834 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Deepika Padukone Reveals The \"Highlight\" Of Kalki 2898 - AD Shooting: \"What Prabhas Was Feeding Everyone...\" - NDTV Movies",
+      "description": "Deepika, Prabhas, Amitabh Bachchan and Kamal Haasan were present at the event",
+      "url": "https://www.ndtv.com/entertainment/deepika-padukone-reveals-the-highlight-of-kalki-2898-ad-shooting-what-prabhas-was-feeding-everyone-5925753",
+      "urlToImage": "https://c.ndtvimg.com/2024-06/darm3iao_hh_625x300_19_June_24.jpeg",
+      "publishedAt": "2024-06-19T16:17:31Z",
+      "content": "Deepika Padukone and Prabhas pictured at the event\r\nNew Delhi: Mom-to-be Deepika Padukone lit up the Kalki 2898 - AD event and how. Deepika Padukone, who plays a pregnant woman in the film, was in a … [+2006 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Hindustan Times"
+      },
+      "author": "Anurag Bohra",
+      "title": "Sonam Khan confirms whether she's participating in Bigg Boss OTT 3: ‘My own boss’ - Hindustan Times",
+      "description": "Sonam Khan made her acting debut with Yash Chopra's Vijay opposite Rishi Kapoor. Recently, there were reports about her participating in Bigg Boss OTT 3. | Web Series",
+      "url": "https://www.hindustantimes.com/entertainment/web-series/sonam-khan-confirms-whether-shes-participating-in-bigg-boss-ott-3-my-own-boss-101718808781499.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/19/1600x900/sonam_anil_1718812426530_1718812448632.jpg",
+      "publishedAt": "2024-06-19T16:01:18Z",
+      "content": "Sonam Khan has responded to ongoing speculations about her participation in Bigg Boss OTT 3. The celebrity reality show, which marks the debut of Anil Kapoor as the new host in the new instalment of … [+1988 chars]"
+  },
+  {
+      "source": {
+          "id": "google-news",
+          "name": "Google News"
+      },
+      "author": "Greatandhra",
+      "title": "Jagan's favourite IAS officers shown the door!.. - Greatandhra",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmdyZWF0YW5kaHJhLmNvbS9wb2xpdGljcy9hbmRocmEtbmV3cy9qYWdhbnMtZmF2b3VyaXRlLWlhcy1vZmZpY2Vycy1zaG93bi10aGUtZG9vci0xMzg2NzHSAVxodHRwczovL21vYmkuZ3JlYXRhbmRocmEuY29tL2FydGljbGUvamFnYW5zLWZhdm91cml0ZS1pYXMtb2ZmaWNlcnMtc2hvd24tdGhlLWRvb3IvMTM4NjcxL2FtcA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-19T15:18:38Z",
+      "content": null
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "India Today"
+      },
+      "author": "India Today World Desk",
+      "title": "Five shocking points from Hinduja family trial - India Today",
+      "description": "Four members of the Hinduja family the UK039s richest are on trial in Switzerland over human trafficking charges It is claimed they spent more on their pet dog than on an Indian help039s salary Here are five shocking details from the trial",
+      "url": "https://www.indiatoday.in/world/story/uk-britain-wealthiest-family-hinduja-billionaire-human-trafficking-staff-shocking-facts-2555411-2024-06-19",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/swiss-billionaire-family-has-been-accused-of-making-their-indian-helps-work-for-long-hours-without-d-193525831-16x9_0.jpg?VersionId=ST35utK12_eAOreX9dLVemwmE4fjc5o5",
+      "publishedAt": "2024-06-19T14:48:18Z",
+      "content": "Four members of the Hinduja family, Britain's wealthiest, are being tried for human trafficking in Switzerland over charges that they grossly underpaid an Indian domestic help at their Lake Geneva vi… [+3419 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Moneycontrol"
+      },
+      "author": "Moneycontrol News",
+      "title": "Cabinet approves development of Rs 76k crore all-weather port in Maharashtra's Vadhavan - Moneycontrol",
+      "description": "Upon completion, the Rs 76,220 Vadhavan port will be one of the top 10 ports in the world.",
+      "url": "https://www.moneycontrol.com/news/business/cabinet-approves-development-of-rs-76k-crore-all-weather-port-in-maharashtras-vadhavan-12752245.html",
+      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/06/20240619143311_BeFunky-collage-88.jpg",
+      "publishedAt": "2024-06-19T14:36:17Z",
+      "content": "The Union Cabinet on June 19 approved the development of an all-weather deep-water port at Vadhavan near Dahanu in Maharashtra.\r\n\"In Maharashtra's Dahanu of Palghar district, a project of Rs 76,200 c… [+2131 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "India TV News"
+      },
+      "author": "Kristina Das",
+      "title": "World Kidney Cancer Day 2024: Know about long-term effects of alcohol on development of kidney cancer - India TV News",
+      "description": "Through various efforts, World Kidney Cancer Day 2024 aims to reduce the global burden of this disease and provide support for individuals affected by kidney cancer. Thus, we need to know about the adverse effects of alcohol on the development of kidney cance…",
+      "url": "https://www.indiatvnews.com/health/world-kidney-cancer-day-2024-know-about-long-term-effects-of-alcohol-on-development-of-kidney-cancer-2024-06-19-937757",
+      "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/06/world-kidney-cancer-day-2024-2-1718804755.jpg",
+      "publishedAt": "2024-06-19T14:30:01Z",
+      "content": "World Kidney Cancer Day 2024 is a global event that is observed annually on June 20 to raise awareness about kidney cancer and to support those who are battling this disease. So, to commemorate World… [+3306 chars]"
+  },
+  {
+      "source": {
+          "id": "the-hindu",
+          "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "At least 9 die after consuming spurious liquor in Tamil Nadu's Kallakurichi - The Hindu",
+      "description": null,
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/many-die-at-karunapuram-in-kallakurichi-after-consuming-suspected-spurious-liquor/article68307724.ece",
+      "urlToImage": null,
+      "publishedAt": "2024-06-19T14:13:00Z",
+      "content": null
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "India Today"
+      },
+      "author": "INDIATODAY",
+      "title": "iPhone 15, iPhone 13, iPhone 14 Plus selling with massive discount offers - India Today",
+      "description": "The iPhone 13, iPhone 15 and iPhone 14 Plus are currently selling with big discount offers on select online channels. The price of these models has dropped by a massive margin. Here are the details.",
+      "url": "https://www.indiatoday.in/visualstories/technology/iphone-15-iphone-13-iphone-14-plus-selling-with-massive-discount-offers-145117-19-06-2024",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/cropped-image-2489.png?size=*:900",
+      "publishedAt": "2024-06-19T14:01:01Z",
+      "content": "The current retail price of this iPhone is Rs 59,900, which means that customers are getting a discount of Rs 6,901."
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "NDTV News"
+      },
+      "author": null,
+      "title": "20 Dead In Delhi Heatwave, Centre Orders Hospitals To Prioritise Treatment - NDTV",
+      "description": "Five people have died over the last two days and at least 12 are on life support at Delhi's Ram Manohar Lohia Hospital as the national capital burns due to a searing heatwave.",
+      "url": "https://www.ndtv.com/delhi-news/delhi-heatwave-5-dead-12-on-life-support-as-delhi-reels-under-heatwave-that-has-no-end-5922977",
+      "urlToImage": "https://c.ndtvimg.com/2024-06/5rng0mfo_delhi-heat_625x300_19_June_24.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
+      "publishedAt": "2024-06-19T13:06:00Z",
+      "content": "Delhi residents have been reeling under a heatwave for nearly a month now\r\nNew Delhi: As cases of heatstroke spike in several parts of north India due to an unrelenting heatwave, the Union Health Min… [+4131 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Hindustan Times"
+      },
+      "author": "HT News Desk",
+      "title": "IMD sets date for monsoon onset in Delhi-NCR as residents reel under heatwave - Hindustan Times",
+      "description": "Amid severe heatwave conditions, IMD predicted that monsoons are likely to hit Delhi-NCR on June 30. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/imd-sets-date-for-monsoon-onset-in-delhi-ncr-as-residents-reel-under-heatwave-101718795391439.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/19/1600x900/delhirain1_1713880119887_1718795966194.jpg",
+      "publishedAt": "2024-06-19T12:55:24Z",
+      "content": "As the national capital and its surrounding states continue to reel under severe heatwave conditions, the India Meteorological Department (IMD) said in its forecast on Wednesday that monsoon is likel… [+2012 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "NDTV News"
+      },
+      "author": null,
+      "title": "68 Indians Among 645 Hajj Pilgrims Who Died In Mecca, Says Saudi Diplomat - NDTV",
+      "description": "A diplomat in Saudi Arabia said on Wednesday that 68 Indian nationals died during the hajj pilgrimage this year marked by searing heath, bringing the overall tally to more than 600.",
+      "url": "https://www.ndtv.com/india-news/68-indians-among-645-hajj-pilgrims-who-died-in-mecca-says-saudi-diplomat-5924276",
+      "urlToImage": "https://c.ndtvimg.com/2024-06/icknq0ro_hajj-heatwave_625x300_19_June_24.jpeg?ver-20240615.100",
+      "publishedAt": "2024-06-19T12:42:13Z",
+      "content": "The total reported dead so far is 645, according to an AFP tally.\r\nRiyadh, Saudi Arabia: A diplomat in Saudi Arabia said on Wednesday that 68 Indian nationals died during the hajj pilgrimage this yea… [+1827 chars]"
+  },
+  {
+      "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+      },
+      "author": "TOI World Desk",
+      "title": "'AI Steve': UK businessman uses AI avatar to contest elections - The Times of India",
+      "description": "UK News: A UK town could have the opportunity to elect the world's first AI lawmaker next month.",
+      "url": "https://timesofindia.indiatimes.com/world/uk/ai-steve-uk-businessman-uses-ai-avatar-to-contest-elections/articleshow/111110524.cms",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-111112678,width-1070,height-580,imgsize-1658205,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "publishedAt": "2024-06-19T12:30:00Z",
+      "content": null
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "Pib.gov.in"
+      },
+      "author": null,
+      "title": "Press Information Bureau - PIB",
+      "description": "India Post Payments Bank (IPPB) has announced its partnership with Ria Money Transfer (Ria), global",
+      "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=2026658",
+      "urlToImage": "https://164.100.158.168/images/indian-emblem.png",
+      "publishedAt": "2024-06-19T12:26:00Z",
+      "content": "Ministry of Communications\r\nIPPB &amp; Ria leveraging technology to provide customers with secure, efficient and convenient international inward money transfer service \r\nPosted On:\r\n 19 JUN 2024 5:56… [+6240 chars]"
+  },
+  {
+      "source": {
+          "id": null,
+          "name": "CNBC"
+      },
+      "author": "Reuters",
+      "title": "India set for decade-high $2 billion bond inflows around JPMorgan index inclusion day - CNBC",
+      "description": "Foreign inflows into Indian bonds will hit a decade-high of $2 billion around June 28, when they will be included in a JPMorgan index, bankers said.",
+      "url": "https://www.cnbc.com/2024/06/19/india-set-for-decade-high-2-billion-bond-inflows-around-jpmorgan-index-inclusion-day.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107430868-1718797223389-gettyimages-1333803268-dsc_0815.jpeg?v=1718797284&w=1920&h=1080",
+      "publishedAt": "2024-06-19T11:41:45Z",
+      "content": "Foreign inflows into Indian bonds will hit a decade-high of $2 billion around June 28, when they will be included in a widely-tracked JPMorgan index, although the central bank will lap up most of the… [+2401 chars]"
+  }
        
        
       ]
