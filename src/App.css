@@ -6,7 +6,33 @@
   height: 40vmin;
   pointer-events: none;
 }
+.logo{
+  width: 50px;
+  float: left;
+  border-radius: 50%;
+  margin-left: 3px;
+  margin-top: 4px;
+}
+.oneRow{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+.oneRow {
+  display: flex;
+  flex-direction: row;
+  /* Add other styles as needed */
+}
+
+@media (max-width: 800px) {
+  .oneRow {
+    flex-direction: column;
+  }
+}
+.bodyPart{
+  text-align: center;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
