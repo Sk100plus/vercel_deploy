@@ -342,7 +342,7 @@ static propsTypes={
     
 
         <div className="row">
-        { !this.state.loading&&this.state.articles.map((ele)=>{
+        { !this.state.loading&&this.articles.map((ele)=>{
           return (<div className="col-md-4"  style={{placeItems:"center",display:"grid"}}  key={ele.url}>
           <NewsItem title={ele.title?ele.title.slice(0,45):""} description={ele.description?ele.description.slice(0,80):"The Treasury Department announced plans to accelerate the size of its auctions a..."}
            imageurl={ele.urlToImage?ele.urlToImage:"https://image.cnbcfm.com/api/v1/image/107269112-1689014288080-janet.jpg?v=1689014319&w=1920&h=1080"} newsurl={ele.url} author={ele.author?ele.author:"Unknown"} date={ele.publishedAt} sources={ele.source.name}/>
