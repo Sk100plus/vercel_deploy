@@ -303,7 +303,7 @@ static propsTypes={
   async updateNews(pageNo){
     this.props.setProgress(0);
     // a6f2b1cabfa548999b4e6fb901647656`
-    let url=`https://newsapi.org/v2/top-headlines?country=us&apiKey=a6f2b1cabfa548999b4e6fb901647656`;
+    let url=`https://newsapi.org/v2/top-headlines?country=us&apiKey=Z9snonE3ZnqM45H2QeFbzFUiteLwM6xFWMRkAetI`;
     this.setState({    loading:true,});
     let data=await fetch(url);
   let parseData=await data.json();
