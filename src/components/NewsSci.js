@@ -35,265 +35,265 @@ static propsTypes={
 }
   articles=[
     {
-      "source": {
-          "id": "cnn",
-          "name": "CNN"
-      },
-      "author": "Ashley Strickland",
-      "title": "Astronomers watch a supermassive black hole awaken in real time - CNN",
-      "description": "Sudden brightness in a distant galaxy has caused astronomers to observe an unprecedented celestial sight: the awakening of a supermassive black hole.",
-      "url": "https://www.cnn.com/2024/06/19/science/supermassive-black-hole-awakening-scn/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/eso2409a.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-06-19T17:52:00Z",
-      "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nAstronomers are witnessing a never-before-seen spectac… [+5106 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "New York Post"
-      },
-      "author": "Ben Cost",
-      "title": "Super rare star explosion will be visible from Earth this month - New York Post ",
-      "description": "NASA has predicted that a “once-in-a-life-time” star explosion — or nova — will be visible to the naked eye sometime this summer.",
-      "url": "https://nypost.com/2024/06/19/lifestyle/super-rare-star-explosion-will-be-visible-from-earth-this-month/",
-      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/06/red-giant-star-white-dwarf-84077931.jpg?quality=75&strip=all&w=1024",
-      "publishedAt": "2024-06-19T16:05:00Z",
-      "content": "A star is dead? \r\nKeep your eyes on the skies, stargazers: NASA has predicted that the much-anticipated “once-in-a-life-time” star explosion or nova will be visible to the naked eye sometime this sum… [+3370 chars]"
-  },
-  {
-      "source": {
-          "id": "the-wall-street-journal",
-          "name": "The Wall Street Journal"
-      },
-      "author": "Micah Maidenberg",
-      "title": "Boeing Sent Two Astronauts Into Space. Now It Needs to Get Them Home. - The Wall Street Journal",
-      "description": "Helium leaks and thruster problems prompt NASA and Boeing to delay astronauts’ return on company’s Starliner vehicle",
-      "url": "https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633",
-      "urlToImage": "https://images.wsj.net/im-971031/social",
-      "publishedAt": "2024-06-19T15:20:00Z",
-      "content": null
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Live Science"
-      },
-      "author": "Harry Baker",
-      "title": "Baby stars that defy explanation are 'swarming like bees' around Milky Way's supermassive black hole - Livescience.com",
-      "description": "A new analysis of inexplicably young stars orbiting extremely close to the Milky Way's black hole heart reveals that they orbit around the gigantic structure in a surprisingly organized way, similar to swarming insects like bees.",
-      "url": "https://www.livescience.com/space/astronomy/baby-stars-that-defy-explanation-are-swarming-like-bees-around-milky-ways-supermassive-black-hole",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/6B9GvT8fRXAUKhytHBoVnB-1200-80.jpg",
-      "publishedAt": "2024-06-19T14:20:05Z",
-      "content": "Inexplicably young stars are barreling through space at breakneck speeds as they circle precariously close to the supermassive black hole at the center of the Milky Way\r\n. This stellar dance may init… [+3023 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Phys.Org"
-      },
-      "author": "Tejasri Gururaj",
-      "title": "Supercooled phase transitions: Could they explain gravitational wave signals? - Phys.org",
-      "description": "A new study published in Physical Review Letters explores the possibility that a strongly supercooled, first-order phase transition in the early universe could explain gravitational wave signals observed by pulsar timing arrays (PTAs).",
-      "url": "https://phys.org/news/2024-06-supercooled-phase-transitions-gravitational.html",
-      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/supercooled-phase-tran.jpg",
-      "publishedAt": "2024-06-19T13:39:31Z",
-      "content": "This article has been reviewed according to Science X's \r\neditorial process\r\nand policies.\r\nEditors have highlighted\r\nthe following attributes while ensuring the content's credibility:\r\nfact-checked\r… [+320 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Live Science"
-      },
-      "author": "Tom Metcalfe",
-      "title": "Royal tomb in Benin has traces of human blood on its walls, hinting at human sacrifice, study finds - Livescience.com",
-      "description": "Researchers examining the wall of a ceremonial tomb in Benin found proteins that could have come only from human blood.",
-      "url": "https://www.livescience.com/archaeology/royal-tomb-in-benin-has-traces-of-human-blood-on-its-walls-hinting-at-human-sacrifice-study-finds",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/GqcKSJjn3iTKARVNDu3KEH-1200-80.jpg",
-      "publishedAt": "2024-06-19T13:00:00Z",
-      "content": "Nearly 200 years ago, human blood is said to have been incorporated into a ceremonial tomb built within a royal palace complex in what is now Benin, according to legend. Now, an investigation into th… [+4439 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Live Science"
-      },
-      "author": "Harry Baker",
-      "title": "Earth's rotating inner core is starting to slow down — and it could alter the length of our days - Livescience.com",
-      "description": "A new study confirms that Earth's inner core has been rotating more slowly than usual since 2010. This mysterious \"backtracking\" could also end up slightly altering the planet's overall rotation, lengthening our days.",
-      "url": "https://www.livescience.com/planet-earth/geology/earths-rotating-inner-core-is-starting-to-slow-down-and-it-could-alter-the-length-of-our-days",
-      "urlToImage": "https://cdn.mos.cms.futurecdn.net/8oyp8YzygP5ZbwUsQNJN2K-1200-80.jpg",
-      "publishedAt": "2024-06-19T12:36:16Z",
-      "content": "The heart of our planet has been spinning unusually slowly for the past 14 years, new research confirms. And if this mysterious trend continues, it could potentially lengthen Earth's days — though th… [+4014 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "LADbible"
-      },
-      "author": null,
-      "title": "Astronomers make 'jaw dropping' discovery through James Webb Space Telescope after studying same spot for decades - LADbible",
-      "description": "Scientists couldn't believe what NASA's Webb was showing them.",
-      "url": "https://www.ladbible.com/news/science/nasa-james-webb-space-telescope-twin-stars-166815-20240619",
-      "urlToImage": "https://images.ladbible.com/resize?type=webp&quality=70&width=1200&fit=contain&gravity=auto&url=https://images.ladbiblegroup.com/v3/assets/bltcd74acc1d0a99f3a/blt6575e972065339ab/6672bdfa91c2dd254adc3c05/Astronomers_make_%E2%80%98jaw_dropping%E2%80%99_discovery_through_James_Webb_Telescope.png",
-      "publishedAt": "2024-06-19T12:23:40Z",
-      "content": "Some of the world's leading space scientists were left with their jaws on their floor after a recent discovery by the James Webb Space Telescope.\r\nAnd the find was made even more remarkable given it … [+2230 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "[Removed]"
-      },
-      "author": null,
-      "title": "[Removed]",
-      "description": "[Removed]",
-      "url": "https://removed.com",
-      "urlToImage": null,
-      "publishedAt": "1970-01-01T00:00:00Z",
-      "content": "[Removed]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "SFGate"
-      },
-      "author": "Erin Rode",
-      "title": "The Calif. observatory that changed how we think about the universe - SFGATE",
-      "description": "In the San Gabriel Mountains, George Ellery Hale built the largest telescope in the world. Then he beat his own record again and again.",
-      "url": "https://www.sfgate.com/la/article/mount-wilson-observatory-universe-19518394.php",
-      "urlToImage": "https://s.hdnux.com/photos/01/40/17/40/25229348/4/rawImage.jpg",
-      "publishedAt": "2024-06-19T11:36:09Z",
-      "content": "On Jan. 1, 1925, astronomer Edwin Hubble completely changed the way we view the universe and our place in it. The discovery came from peering through what was then the worlds largest telescope, locat… [+9715 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "AL.com"
-      },
-      "author": "Margaret Kates | mkates@al.com",
-      "title": "Are oysters the key to stopping climate change? These coastal Alabama residents think so. - AL.com",
-      "description": "Two Alabama residents have come up with a way to farm oysters easier. They're now in the running for a $50 million carbon capture prize.",
-      "url": "https://www.al.com/news/mobile/2024/06/are-oysters-the-key-to-stopping-climate-change-these-coastal-alabama-residents-think-so.html",
-      "urlToImage": "https://www.al.com/resizer/v2/GPTIGQ5IZVDXBLACNZQZWT72QU.JPG?auth=961d1d0fcb9c1d6bd0e429a7c7ebb79d7dc7e1b2bd3b94e0516f97eb3afc6872&width=1280&quality=90",
-      "publishedAt": "2024-06-19T11:30:00Z",
-      "content": null
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Aeon.co"
-      },
-      "author": null,
-      "title": "For one of nature’s great builders, finding a mate means weaving the perfect nest - Aeon",
-      "description": "Witness 18 days’ work in just 3.5 minutes as a male weaverbird crafts an elaborate dangling nest in hopes of finding a mate",
-      "url": "https://aeon.co/videos/for-one-of-natures-great-builders-finding-a-mate-means-weaving-the-perfect-nest",
-      "urlToImage": "https://images.aeonmedia.co/images/cfcf2b0c-92a8-4446-af32-a8795b7d9773/how-a-baya-weaver-builds-a-nest-landscape-1.jpg?width=1200&quality=75&format=auto",
-      "publishedAt": "2024-06-19T10:02:01Z",
-      "content": "Native to South and Southeast Asia, the bird species Ploceus philippinus, better known as the baya weaver, is so named for its unique nests, which often hang from palm trees above bodies of water. To… [+507 chars]"
-  },
-  {
-      "source": {
-          "id": "mashable",
-          "name": "Mashable"
-      },
-      "author": "Mark Kaufman",
-      "title": "Scientists discover how old Jupiter's Great Red Spot really is - Mashable",
-      "description": "An ancient, swirling storm.",
-      "url": "https://mashable.com/article/jupiter-great-red-spot-how-old",
-      "urlToImage": "https://helios-i.mashable.com/imagery/articles/02qi1lqOJPOpwpPA62wciCD/hero-image.fill.size_1200x675.v1718723997.png",
-      "publishedAt": "2024-06-19T09:00:00Z",
-      "content": null
-  },
-  {
-      "source": {
-          "id": "cnn",
-          "name": "CNN"
-      },
-      "author": "Amarachi Orie",
-      "title": "Ancient reptile fossil shines new light on early marine evolution - CNN",
-      "description": "Scientists have discovered a 246 million-year-old marine reptile fossil, the oldest of its kind to be found in the Southern Hemisphere, shining a new light on the early evolution of marine mammals.",
-      "url": "https://www.cnn.com/2024/06/19/science/sea-reptile-southern-hemisphere-intl-scli-scn/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/low-res-nothosaurs-image-artwork-stavros-kundromichalis.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2024-06-19T08:43:00Z",
-      "content": "Scientists have discovered a 246 million-year-old marine reptile fossil, the oldest of its kind to be found in the Southern Hemisphere, shining a new light on the early evolution of marine mammals.\r\n… [+3982 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "SciTechDaily"
-      },
-      "author": null,
-      "title": "Ticking Time Bomb: Space Junk Is Eating Away at Earth’s Ozone Layer - SciTechDaily",
-      "description": "When internet-providing satellites — now being launched by the thousands — reach the end of their service life, the remnants from their incineration in Earth's atmosphere will initiate chemical reactions that deplete stratospheric ozone. When outdated satelli…",
-      "url": "https://scitechdaily.com/ticking-time-bomb-space-junk-is-eating-away-at-earths-ozone-layer/",
-      "urlToImage": "https://scitechdaily.com/images/SpaceX-Satellite.jpg",
-      "publishedAt": "2024-06-19T08:31:11Z",
-      "content": "Thousands of satellites have been deployed into “megaconstellations” to fulfill the growing need for worldwide internet services, with many more planned for launch soon. However, these compact satell… [+5348 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "IFLScience"
-      },
-      "author": "James Felton",
-      "title": "Right Now The Earth Is Technically *Not* Orbiting The Sun - IFLScience",
-      "description": "In fact, the point it orbits is rarely inside the Sun.",
-      "url": "https://www.iflscience.com/right-now-the-earth-is-technically-not-orbiting-the-sun-74697",
-      "urlToImage": "https://assets.iflscience.com/assets/articleNo/74697/aImg/76894/barycenter-meta.png",
-      "publishedAt": "2024-06-19T08:11:27Z",
-      "content": "Diagrams and animations showing the orbits of the planets are lying to you a little bit. Or to put it more accurately, they are simplifying the orbits of the planets so that teachers don't have to ex… [+2678 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "ScienceAlert"
-      },
-      "author": "Universe Today",
-      "title": "Can Nearby Supernova Explosions Threaten Life on Earth? - ScienceAlert",
-      "description": "Earth's protective atmosphere has sheltered life for billions of years, creating a haven where evolution produced complex lifeforms like us.",
-      "url": "https://www.sciencealert.com/can-nearby-supernova-explosions-threaten-life-on-earth",
-      "urlToImage": "https://www.sciencealert.com/images/2024/06/SupernovaExplosionESO.jpg",
-      "publishedAt": "2024-06-19T02:20:01Z",
-      "content": "Earth's protective atmosphere has sheltered life for billions of years, creating a haven where evolution produced complex lifeforms like us.\r\nThe ozone layer plays a critical role in shielding the bi… [+8239 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "FOX 35 Orlando"
-      },
-      "author": "FOX 35 Digital Staff",
-      "title": "SpaceX pushes launch of SES ASTRA 1P mission from Florida to Wednesday - FOX 35 Orlando",
-      "description": "SpaceX plans to launch the SES ASTRA 1P mission aboard a Falcon 9 rocket on from Space Launch Complex 40 (SLC-40) at Cape Canaveral Space Force Station, Florida.",
-      "url": "https://www.fox35orlando.com/news/spacex-launch-ses-astra-1p-mission-falcon-9-rocket-from-florida-tuesday",
-      "urlToImage": "https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/06/1280/720/GettyImages-2021273237.jpg?ve=1&tl=1",
-      "publishedAt": "2024-06-19T00:28:22Z",
-      "content": "Watch SES ASTRA 1P mission launch\r\nCAPE CANAVERAL, Fla. - SpaceX canceled a Tuesday launch of the SES ASTRA 1P mission aboard a Falcon 9 rocket. The launch from Space Launch Complex 40 (SLC-40) at Ca… [+882 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "SpaceNews"
-      },
-      "author": "Debra Werner",
-      "title": "ExLabs wins funds to accelerate space robotics - SpaceNews",
-      "description": "Exploration Laboratories, a startup focused on space resources, will accelerate work on technology to autonomously capture space objects, thanks to a $1.9 million Tactical Funding Increase from SpaceWERX.",
-      "url": "https://spacenews.com/exlabs-wins-funds-to-accelerate-space-robotics/",
-      "urlToImage": "https://spacenews.com/wp-content/uploads/2024/03/rsz_arachne_debris_006-1.png",
-      "publishedAt": "2024-06-18T22:49:53Z",
-      "content": "Exploration Laboratories, a startup focused on space resources, will accelerate work on technology to autonomously capture space objects, thanks to a $1.9 million Tactical Funding Increase (TACFI) fr… [+1925 chars]"
-  },
-  {
-      "source": {
-          "id": "ars-technica",
-          "name": "Ars Technica"
-      },
-      "author": "John Timmer",
-      "title": "When did humans start social knowledge accumulation? - Ars Technica",
-      "description": "Study suggests our ancestors were building on past knowledge by 600,000 years ago.",
-      "url": "https://arstechnica.com/science/2024/06/stone-tool-archeological-record-shows-recent-boost-in-sophistication/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/GettyImages-2003169331-760x380.jpg",
-      "publishedAt": "2024-06-18T22:33:20Z",
-      "content": "24\r\nA key aspect of humans' evolutionary success is the fact that we don't have to learn how to do things from scratch. Our societies have developed various waysfrom formal education to YouTube video… [+2655 chars]"
-  }
+        "source": {
+            "id": null,
+            "name": "Technology Networks"
+        },
+        "author": "Technology Networks",
+        "title": "Researchers Film Energy Materials As They Form - Technology Networks",
+        "description": "Eyes glued to a live transmission from inside a reaction vessel, LMU researchers watch chemical reactions at work. Their results will improve the manufacture of the next generation of energy materials.",
+        "url": "https://www.technologynetworks.com/applied-sciences/news/researchers-film-energy-materials-as-they-form-387964",
+        "urlToImage": "https://assets.technologynetworks.com/production/dynamic/images/content/387964/researchers-film-energy-materials-as-they-form-387964-640x360.jpg?cb=20240620",
+        "publishedAt": "2024-06-20T08:31:43Z",
+        "content": "Shooting a movie in the lab requires special equipment. Especially when the actors are molecules invisible to the naked eye reacting with each other. Imagine trying to film tiny lava flows during a v… [+5119 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Business Today"
+        },
+        "author": "BUSINESSTODAY",
+        "title": "'After Titanic, time for Venus': Co-Founder of Titan Submersible Company wants to send humans in space - Business Today",
+        "description": "Guillermo Söhnlein, co-founder of OceanGate, the company behind the ill-fated Titan submersible, is now focusing on human exploration of Venus.",
+        "url": "https://www.businesstoday.in/visualstories/business/after-titanic-time-for-venus-co-founder-of-titan-submersible-company-wants-to-send-human-in-space-145247-20-06-2024",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/cropped-AdobeStock_437497157.jpeg?size=*:675",
+        "publishedAt": "2024-06-20T07:55:35Z",
+        "content": "Söhnlein believes Venus is a more viable option than Mars due to its closer proximity, similar orbit, lower cost, more frequent flight windows, shorter transit times, and higher safety."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hindustan Times"
+        },
+        "author": "Khushi Pal",
+        "title": "10 ethereal pics of space captured by NASA - Hindustan Times",
+        "description": "Here is a look at ten sparkling images of space shared by NASA.",
+        "url": "https://www.hindustantimes.com/web-stories/in-focus/10-ethereal-pics-of-space-captured-by-nasa-101718867075818.html",
+        "urlToImage": null,
+        "publishedAt": "2024-06-20T07:40:05Z",
+        "content": "By Khushi PalPublished Jun 20, 2024\r\nHindustan TimesIn FocusPhoto Credits: NASA"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "Virgo Galaxy Black Hole activated | Latest News | WION - WION",
+        "description": "A latest international study indicates that astronomers might have chanced upon a never-before phenomenon - the awakening of a Black Hole in a faraway Galaxy...",
+        "url": "https://www.youtube.com/watch?v=8dxThcsgsLg",
+        "urlToImage": "https://i.ytimg.com/vi/8dxThcsgsLg/maxresdefault.jpg",
+        "publishedAt": "2024-06-20T07:05:07Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Bizzbuzz.news"
+        },
+        "author": "Pok Man Leung, Chris Greening",
+        "title": "Billions-year-old microbes offer blueprint for hydrogen economy - Bizz Buzz",
+        "description": "Hydrogen, the fuel of archaea, serves as a bridge between our planet's past, teeming with these fascinating microbes, and a potential future powered by clean energy",
+        "url": "https://www.bizzbuzz.news/trendz/billions-year-old-microbes-offer-blueprint-for-hydrogen-economy-1322800",
+        "urlToImage": "https://www.bizzbuzz.news/h-upload/2024/06/20/1917151-hydrigen.webp",
+        "publishedAt": "2024-06-20T07:02:38Z",
+        "content": "Studying archaea's diverse metabolic pathways, like methane production and hydrogen-forming fermentation, can inform strategies to mitigate greenhouse gas emissions \r\nThree-quarters of all matter in … [+4963 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Business Standard"
+        },
+        "author": "Vasudha Mukherjee",
+        "title": "Sunita Williams stuck in space: After launch, Starliner's return delayed - Business Standard",
+        "description": "Everything you need to know about Sunita Williams' space mission, Boeing Starliner setbacks and delays",
+        "url": "https://www.business-standard.com/world-news/sunita-williams-stuck-in-space-after-launch-starliner-s-return-delayed-124062000346_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/20/thumb/featurecrop/400X400/1718866190-3966.jpg",
+        "publishedAt": "2024-06-20T06:57:43Z",
+        "content": "First Starliner launch date: May 6The Crew Flight Test faced numerous delays before its successful launch. Initially scheduled for May 6, the mission was postponed just two hours before liftoff due t… [+78 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Zoom"
+        },
+        "author": "Divya",
+        "title": "Massive 1100-Foot Asteroid Apophis Hit Earth In 2029? NASA Explains - Times Now",
+        "description": "A massive 1100-foot asteroid is said to make an alarmingly close approach towards Earth in 2029. Will it strike the Earth? Know what NASA has revealed.",
+        "url": "https://www.timesnownews.com/technology-science/massive-1100-foot-asteroid-apophis-hit-earth-in-2029-nasa-explains-article-111132353",
+        "urlToImage": "https://static.tnn.in/thumb/msid-111132365,thumbsize-106690,width-1280,height-720,resizemode-75/111132365.jpg",
+        "publishedAt": "2024-06-20T06:57:16Z",
+        "content": "Master Blaster Scores Big: Sachin Tendulkar's Stake In This Stock Hits All-Time High, Investment Soars To..."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Allianz.com"
+        },
+        "author": "Allianz.com",
+        "title": "Here comes the Sun: the dangers of geomagnetic storms - Allianz.com",
+        "description": null,
+        "url": "https://commercial.allianz.com/news-and-insights/expert-risk-articles/geomagnetic-storms.html",
+        "urlToImage": null,
+        "publishedAt": "2024-06-20T06:56:56Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "WION"
+        },
+        "author": null,
+        "title": "China`s 11th century `guest star` revealed as spectacular Crab Nebula - WION",
+        "description": "Over a millennium ago, in July 1054, when Chinese astronomers documented a remarkable \"guest star\" that shone as brightly as Jupiter for nearly a month, it sparked curiosity and speculations in equal proportions. But the two quickly went into oblivion as the …",
+        "url": "https://www.wionews.com/science/chinas-11th-century-guest-star-revealed-as-spectacular-crab-nebula-733428",
+        "urlToImage": "https://cdn.wionews.com/sites/default/files/2024/06/20/438862-gueststar.png",
+        "publishedAt": "2024-06-20T06:52:50Z",
+        "content": "Over a millennium ago, in July 1054, when Chinese astronomers documented a remarkable \"guest star\" that shone as brightly as Jupiter for nearly a month, it sparked curiosity and speculations in equal… [+2107 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NewsBytes"
+        },
+        "author": "Akash Pandey",
+        "title": "NASA plans to launch toaster-sized 'star' to study the universe - NewsBytes",
+        "description": "",
+        "url": "https://www.newsbytesapp.com/news/science/nasa-planning-to-launch-artificial-star-into-space/story",
+        "urlToImage": "https://i.cdn.newsbytesapp.com/images/27115511718855894.jpg",
+        "publishedAt": "2024-06-20T04:48:11Z",
+        "content": "Next Article\r\nNASA is gearing up to launch an artificial star, around the size of a toaster and equipped with eight lasers, into space. \r\n This is part of the space agency's $19.5 million Landolt mis… [+1526 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NewsBytes"
+        },
+        "author": "Dwaipayan Roy",
+        "title": "Methane waves are shaping Saturn's largest moon, reveals MIT study - NewsBytes",
+        "description": "",
+        "url": "https://www.newsbytesapp.com/news/science/titan-s-surface-is-being-shaped-by-methane-waves/story",
+        "urlToImage": "https://i.cdn.newsbytesapp.com/images/2005111718855930.jpg",
+        "publishedAt": "2024-06-20T04:17:06Z",
+        "content": "Next Article\r\nSaturn's largest moon, Titan, bears a striking resemblance to Earth due to the presence of large liquid bodies on its surface. \r\n However, unlike Earth's water-filled oceans and rivers,… [+1568 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": null,
+        "title": "\"Once-In-A-Lifetime\" Cosmic Explosion Will Be Visible From Earth, Says NASA - NDTV",
+        "description": "The \"Blaze Star,\" which is a binary system in the Northern Crown about 3,000 light years from Earth, is comprised of a white dwarf, an Earth-sized remnant of a dead star with a mass comparable to the sun.",
+        "url": "https://www.ndtv.com/science/once-in-a-lifetime-cosmic-explosion-will-be-visible-from-earth-says-nasa-check-details-5928430",
+        "urlToImage": "https://c.ndtvimg.com/2024-06/p35qqjf_interstellar-explosion-_625x300_20_June_24.jpeg?ver-20240615.100",
+        "publishedAt": "2024-06-20T04:08:08Z",
+        "content": "An Earth-sized remnant of a dead star, located about 3,000 light years from Earth, will explode\r\nA celestial spectacle is set to dazzle stargazers this summer, as NASA has predicted the rare occurren… [+2396 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "ET HealthWorld",
+        "title": "Keeping astronauts healthy in space isn't easy − new training programs will prepare students to perform me.. - ETHealthWorld",
+        "description": "Companies such as SpaceX, Blue Origin and Sierra Space have developed vehicles with reusable boosters, automated flight systems and lightweight materials to support these deep space missions. Some even have ambitions of their own to build private space statio…",
+        "url": "https://health.economictimes.indiatimes.com/news/industry/keeping-astronauts-healthy-in-space-isnt-easy-new-training-programs-will-prepare-students-to-perform-medicine-while-thousands-of-miles-away-from-earth/111125539",
+        "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-111125539,imgsize-169882,width-1200,height=765,overlay-ethealth/industry/keeping-astronauts-healthy-in-space-isnt-easy-new-training-programs-will-prepare-students-to-perform-medicine-while-thousands-of-miles-away-from-earth.jpg",
+        "publishedAt": "2024-06-20T01:06:50Z",
+        "content": "Colorado: In the coming decade, more people will go to space than ever before as human spaceflight enters a new era. NASA, the European Space Agency and other governmental agencies are partnering to … [+5920 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "The Hindu",
+        "title": "How will AlphaFold 3 change life sciences research? - The Hindu",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9zY2ktdGVjaC9zY2llbmNlL2hvdy13aWxsLWFscGhhZm9sZC0zLWNoYW5nZS1saWZlLXNjaWVuY2VzLXJlc2VhcmNoL2FydGljbGU2ODMwNzQ1Mi5lY2XSAXVodHRwczovL3d3dy50aGVoaW5kdS5jb20vc2NpLXRlY2gvc2NpZW5jZS9ob3ctd2lsbC1hbHBoYWZvbGQtMy1jaGFuZ2UtbGlmZS1zY2llbmNlcy1yZXNlYXJjaC9hcnRpY2xlNjgzMDc0NTIuZWNlL2FtcC8?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-06-20T00:00:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Conversation Africa"
+        },
+        "author": "Robyn Schofield",
+        "title": "Defunct satellites burning up in the atmosphere could damage the ozone layer. Here's how - The Conversation",
+        "description": "Burnt-up satellites could dump hundreds of tonnes of aluminium in the stratosphere every year.  An atmospheric chemist explains what that might mean",
+        "url": "https://theconversation.com/defunct-satellites-burning-up-in-the-atmosphere-could-damage-the-ozone-layer-heres-how-232592",
+        "urlToImage": "https://images.theconversation.com/files/601683/original/file-20240619-19-3eb1g0.jpg?ixlib=rb-4.1.0&rect=25%2C3%2C2371%2C1185&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2024-06-19T20:18:13Z",
+        "content": "Communications companies such as Starlink plan to launch tens of thousands of satellites into orbit around Earth over the next decade or so. The growing swarm is already causing problems for astronom… [+6590 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "News9live.com"
+        },
+        "author": "Harish Dugh",
+        "title": "Gigantic 190-foot asteroid hurtling towards Earth, says NASA at a blazing 32076 mph - News9 LIVE",
+        "description": "190-foot Asteroid 2024 MC is travelling at a fiery pace and is heading towards Earth, says NASA.",
+        "url": "https://www.news9live.com/science/bta-gigantic-190-foot-asteroid-hurtling-towards-earth-says-nasa-32076-mph-2584333",
+        "urlToImage": "https://images.news9live.com/wp-content/uploads/2024/06/asteroid-nasa-1.jpg",
+        "publishedAt": "2024-06-19T18:44:36Z",
+        "content": "Moving towards Earth at 32076 mph, NASA has said that this asteroid will make a close approach to Earth today. (Pixabay)\r\nA gigantic asteroid is rushing towards Earth and it is travelling at shocking… [+1795 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "Gravitas: NASA scientists fix Voyager 1 from 30 billion kilometres away - WION",
+        "description": "Scientists at NASA have, once again, achieved a remarkable feat. They were able to fix 47 year old space probe, Voyager 1, from 15 billion miles away. The Vo...",
+        "url": "https://www.youtube.com/watch?v=BQlbr1hanzg",
+        "urlToImage": "https://i.ytimg.com/vi/BQlbr1hanzg/maxresdefault.jpg",
+        "publishedAt": "2024-06-19T17:52:07Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Republic World"
+        },
+        "author": "Digital Desk",
+        "title": "Purple Rain: NASA's MAVEN Captures Mesmerizing Martian Auroras Caused by Solar Storm - Republic World",
+        "description": "NASA has once again amazed space enthusiasts with a mesmerizing glimpse of the universe. This time, the space agency delighted its Instagram followers with an animated GIF showcasing auroras on Mars' nightside. Captured by NASA's Imaging Ultraviolet Spectrogr…",
+        "url": "https://www.republicworld.com/science/space/purple-rain-nasa-s-maven-captures-mesmerizing-martian-auroras-caused-by-solar-storm",
+        "urlToImage": "https://img.republicworld.com/rimages/marsss_16:9-171881927751916_9.webp",
+        "publishedAt": "2024-06-19T17:48:00Z",
+        "content": "NASA has once again amazed space enthusiasts with a mesmerizing glimpse of the universe. This time, the space agency delighted its Instagram followers with an animated GIF showcasing auroras on Mars'… [+2069 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "India Education Diary"
+        },
+        "author": "iednewsdesk",
+        "title": "Scientists at University of Houston Find Massive Energy Imbalance on Saturn - India Education Diary",
+        "description": "A groundbreaking discovery by researchers at the University of Houston has revealed a massive energy imbalance on Saturn, shedding new light on planetary science and evolution and challenging existing climate models for the solar system’s gas giants.",
+        "url": "https://indiaeducationdiary.in/scientists-at-university-of-houston-find-massive-energy-imbalance-on-saturn/",
+        "urlToImage": "https://indiaeducationdiary.in/wp-content/uploads/2024/06/saturn_spiff.png",
+        "publishedAt": "2024-06-19T17:46:35Z",
+        "content": "A groundbreaking discovery by researchers at the University of Houston has revealed a massive energy imbalance on Saturn, shedding new light on planetary science and evolution and challenging existin… [+4753 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Mystery Behind Jupiter's Great Red Spot Unveiled - NDTV",
+        "description": "The location was 24,233 miles across in 1879, and it has gradually reduced to 8,700 miles in diameter currently, gradually taking on a rounder shape rather than an oval one.",
+        "url": "https://www.ndtv.com/science/mystery-behind-jupiters-great-red-spot-unveiled-5925064",
+        "urlToImage": "https://c.ndtvimg.com/2024-03/uc52bcm8_-great-red-spot_625x300_12_March_24.jpeg",
+        "publishedAt": "2024-06-19T14:39:43Z",
+        "content": "It is thought that Giovanni Cassini was the first person to observe the Great Red Spot.\r\nThe Great Red Spot on Jupiter has long been known, but scientists have just recently learned more about how an… [+2662 chars]"
+    }
        
        
       ]
