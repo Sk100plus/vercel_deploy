@@ -308,7 +308,7 @@ static propsTypes={
     let data=await fetch(url);
   let parseData=await data.json();
   this.setState({
-    articles:parseData.articles,
+    articles:this.articles,
     totalResults:parseData.totalResults,
   loading:false,
 
