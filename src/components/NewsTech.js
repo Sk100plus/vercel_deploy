@@ -35,265 +35,265 @@ static propsTypes={
 }
   articles=[
     {
-      "source": {
-          "id": null,
-          "name": "GSMArena.com"
-      },
-      "author": "Michail",
-      "title": "Android 15 Beta 3 brings platform stability and updated passkey UI - GSMArena.com news - GSMArena.com",
-      "description": "Developers can now freely test out their apps run on Android 15. Android 15 has entered its platform stability stage with the release of Beta 3 as APIs are...",
-      "url": "https://www.gsmarena.com/android_15_beta_3_brings_platform_stability_and_updated_passkey_ui-news-63352.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/06/android-15-beta-3/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-06-19T16:25:01Z",
-      "content": "Android 15 has entered its platform stability stage with the release of Beta 3 as APIs are finalized and developers can now freely test out their apps. Google will release one more beta for Android 1… [+559 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Financial Express"
-      },
-      "author": "The Financial Express",
-      "title": "New Study: Big Boss in your home? Alexa and Google Home raise privacy alarms - The Financial Express",
-      "description": null,
-      "url": "https://www.financialexpress.com/life/technology-new-study-big-boss-in-your-home-alexa-and-google-home-raise-privacy-alarms-3529356/",
-      "urlToImage": null,
-      "publishedAt": "2024-06-19T15:24:56Z",
-      "content": null
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "GSMArena.com"
-      },
-      "author": "Prasad",
-      "title": "Xiaomi 14 Civi in for review - GSMArena.com news - GSMArena.com",
-      "description": "We have with us today the latest mid-range smartphone from Xiaomi, the Xiaomi 14 Civi, which is a rebranded version of the Chinese Civi 4 Pro for India....",
-      "url": "https://www.gsmarena.com/xiaomi_14_civi_in_for_review-news-63350.php",
-      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/24/06/xiaomi-14-civi-in-for-review/-952x498w6/gsmarena_000.jpg",
-      "publishedAt": "2024-06-19T15:21:01Z",
-      "content": "We have with us today the latest mid-range smartphone from Xiaomi, the Xiaomi 14 Civi, which is a rebranded version of the Chinese Civi 4 Pro for India. The 'Civi' stands for Cinematic Vision, and th… [+1820 chars]"
-  },
-  {
-      "source": {
-          "id": "google-news",
-          "name": "Google News"
-      },
-      "author": "The Times of India",
-      "title": "WhatsApp may soon get this Apple FaceTime and Instagram-like video calling feature - The Times of India",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS90ZWNobm9sb2d5L3RlY2gtbmV3cy93aGF0c2FwcC1tYXktc29vbi1nZXQtdGhpcy1hcHBsZS1mYWNldGltZS1hbmQtaW5zdGFncmFtLWxpa2UtdmlkZW8tY2FsbGluZy1mZWF0dXJlL2FydGljbGVzaG93LzExMTExODA4OS5jbXPSAakBaHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vdGVjaG5vbG9neS90ZWNoLW5ld3Mvd2hhdHNhcHAtbWF5LXNvb24tZ2V0LXRoaXMtYXBwbGUtZmFjZXRpbWUtYW5kLWluc3RhZ3JhbS1saWtlLXZpZGVvLWNhbGxpbmctZmVhdHVyZS9hbXBfYXJ0aWNsZXNob3cvMTExMTE4MDg5LmNtcw?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-06-19T14:30:00Z",
-      "content": null
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "India Today"
-      },
-      "author": "INDIATODAY",
-      "title": "iPhone 15, iPhone 13, iPhone 14 Plus selling with massive discount offers - India Today",
-      "description": "The iPhone 13, iPhone 15 and iPhone 14 Plus are currently selling with big discount offers on select online channels. The price of these models has dropped by a massive margin. Here are the details.",
-      "url": "https://www.indiatoday.in/visualstories/technology/iphone-15-iphone-13-iphone-14-plus-selling-with-massive-discount-offers-145117-19-06-2024",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/cropped-image-2489.png?size=*:900",
-      "publishedAt": "2024-06-19T14:01:01Z",
-      "content": "The current retail price of this iPhone is Rs 59,900, which means that customers are getting a discount of Rs 6,901."
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Hindustan Times"
-      },
-      "author": "Neha Ravi Khandelwal",
-      "title": "Amazon offers on home locks, cameras, and more: Avail up to 70% off and make your home more secure - Hindustan Times",
-      "description": "Secure your home with Amazon's massive discounts of up to 70% off on home locks, cameras, video door phones, and alarm systems.",
-      "url": "https://www.hindustantimes.com/technology/amazon-offers-on-home-locks-cameras-and-more-avail-up-to-70-off-and-make-your-home-more-secure-101718798799140.html",
-      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/19/1600x900/MixCollage-19-Jun-2024-06-30-PM-7046_cleanup_1718802129264_1718802142840.jpg",
-      "publishedAt": "2024-06-19T13:18:51Z",
-      "content": "Amazon offers security devices for your home and provides unparalleled opportunities to enhance home security with its current promotions. Enjoy substantial discounts of up to 70% on a wide range of … [+17855 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "India Today"
-      },
-      "author": "India Today Tech",
-      "title": "After Infinix Note 40 launch on June 21, the company will launch the ZeroBook Ultra laptop on June 27 - India Today",
-      "description": "Infinix is hosting a launch event in India on June 21 for the launch of the Infinix Note 40 smartphone Less than a week later the company will be launching another product in India  the Infinix ZeroBook Ultra  on June 27",
-      "url": "https://www.indiatoday.in/technology/news/story/after-infinix-note-40-launch-on-june-21-the-company-will-launch-the-zerobook-ultra-pc-on-june-27-2555351-2024-06-19",
-      "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/infinix-zerobook-ultra-laptop-to-launch-in-india-on-june-27-193054241-16x9_0.jpg?VersionId=pIrUHqyPFH4EyyW9RHA5hap5hmFYxXid",
-      "publishedAt": "2024-06-19T12:31:21Z",
-      "content": "Infinix is set to launch the Infinix Note 40 smartphone in India on June 21. Ahead of the launch, the company has announced that it will be launching another product soon. Infinix has confirmed that … [+2156 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "9to5google.com"
-      },
-      "author": "Abner Li",
-      "title": "Android 15: Screenshot preview redesign, Markup preps AI stickers - 9to5Google",
-      "description": "Android 15 Beta 3 makes some tweaks to the screenshot preview UI, while revealing work on Pixel-exclusive generative AI stickers...",
-      "url": "http://9to5google.com/2024/06/19/android-15-screenshot-previews/",
-      "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/06/Android-15-Beta-3-v2.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-      "publishedAt": "2024-06-19T12:30:00Z",
-      "content": "Android 15 Beta 3 makes some tweaks to the screenshot preview UI, while revealing work on Pixel-exclusive generative AI stickers. \r\nAbout APK Insight: In this APK Insight post, weve decompiled the la… [+2026 chars]"
-  },
-  {
-      "source": {
-          "id": "google-news",
-          "name": "Google News"
-      },
-      "author": "Gadgets 360",
-      "title": "Lenovo Legion Go India Launch Date Set for June 27; Key Features Confirmed | Technology News - Gadgets 360",
-      "description": null,
-      "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmdhZGdldHMzNjAuY29tL2xhcHRvcHMvbmV3cy9sZW5vdm8tbGVnaW9uLWdvLWluZGlhLWxhdW5jaC1kYXRlLWZlYXR1cmVzLXdpbmRvd3MtaGFuZGhlbGQtNTkyMzgyM9IBAA?oc=5",
-      "urlToImage": null,
-      "publishedAt": "2024-06-19T12:14:15Z",
-      "content": null
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Livemint"
-      },
-      "author": "Livemint",
-      "title": "Apple halts Vision Pro 2 headset production, eyes budget-friendly AR launch | Mint - Mint",
-      "description": "Apple has reportedly halted Vision Pro 2 AR headset development to prioritize a more affordable model for late 2025, aiming for a $1,500 price point. The cheaper version may compromise on features but retains advanced display tech.",
-      "url": "https://www.livemint.com/technology/tech-news/apple-halts-vision-pro-2-headset-production-eyes-budget-friendly-ar-launch-11718798532145.html",
-      "urlToImage": "https://www.livemint.com/lm-img/img/2024/06/19/1600x900/APPLE-DEVELOPERS-CONFERENCE-22_1718193425097_1718798785381.jpg",
-      "publishedAt": "2024-06-19T12:10:32Z",
-      "content": "California-based tech giant Apple Inc. has made a strategic decision to halt the advancement of its high-end augmented reality headset, the Vision Pro 2, opting instead to prioritize the development … [+2314 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Financial Express"
-      },
-      "author": "The Financial Express",
-      "title": "S8UL ropes in three gaming creators for its GTA RP roster - The Financial Express",
-      "description": null,
-      "url": "https://www.financialexpress.com/business/brandwagon-s8ul-ropes-in-three-gaming-creators-for-its-gta-rp-roster-3529177/",
-      "urlToImage": null,
-      "publishedAt": "2024-06-19T12:00:00Z",
-      "content": null
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "MacRumors"
-      },
-      "author": "Tim Hardwick",
-      "title": "Apple Explains iPhone 15 Pro Requirement for Apple Intelligence - MacRumors",
-      "description": "With iOS 18, iPadOS 18, and macOS Sequoia, Apple is introducing a new personalized AI experience called Apple Intelligence that uses on-device,...",
-      "url": "https://www.macrumors.com/2024/06/19/apple-iphone-15-pro-requirement-apple-intelligence/",
-      "urlToImage": "https://images.macrumors.com/t/NL4l6iHxp0S0F_C3evm831s7d_U=/2880x/article-new/2023/09/iPhone-15-Pro-lineup.jpg",
-      "publishedAt": "2024-06-19T11:48:58Z",
-      "content": "With iOS 18, iPadOS 18, and macOS Sequoia, Apple is introducing a new personalized AI experience called Apple Intelligence that uses on-device, generative large-language models to enhance the user ex… [+2486 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Business Standard"
-      },
-      "author": "ANI",
-      "title": "Google launches Gemini Chatbot service in India, other South Asian nations - Business Standard",
-      "description": "This announcement marks a significant step in Google's efforts to broaden the reach of its chatbot technology beyond select markets, as per reports by GSM Arena",
-      "url": "https://www.business-standard.com/technology/tech-news/google-launches-gemini-chatbot-service-in-india-other-south-asian-nations-124061900615_1.html",
-      "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/15/thumb/featurecrop/400X400/1715749660-0515.JPG",
-      "publishedAt": "2024-06-19T11:38:13Z",
-      "content": "This announcement marks a significant step in Google's efforts to broaden the reach of its chatbot technology beyond select markets, as per reports by GSM Arena\r\nAccording to Google's support page, G… [+2188 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Hindustan Times"
-      },
-      "author": "HT Tech",
-      "title": "OPPO A3 Pro Indian model images leaked: Major changes expected compared to Chinese unit - HT Tech",
-      "description": "Considering a smartphone around the  ₹20,000 mark? The OPPO A3 Pro might soon emerge as a strong contender. Here’s what you can expect.",
-      "url": "https://tech.hindustantimes.com/mobile/news/oppo-a3-pro-indian-model-images-leaked-major-changes-expected-compared-to-chinese-unit-71718794623789.html",
-      "urlToImage": "https://images.hindustantimes.com/tech/img/2024/06/19/1600x900/OPPO_A3_Pro_Indian_model_images_leaked_1718794916084_1718794916372.jpg",
-      "publishedAt": "2024-06-19T11:05:15Z",
-      "content": "OPPO may be planning to expand its presence in the 15,000 to 20,000 price bracket in the Indian mobile market with the launch of the OPPO A3 Pro. According to 91Mobiles, the Indian variant is expecte… [+1772 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Deccan Herald"
-      },
-      "author": "Bloomberg",
-      "title": "Explained | How to help your smartphone survive a heatwave - Deccan Herald",
-      "description": null,
-      "url": "https://www.deccanherald.com/technology/explained-how-to-help-your-smartphone-survive-a-heatwave-3072598",
-      "urlToImage": "https://images.deccanherald.com/deccanherald%2F2024-06%2F51308c73-9d0d-4c1a-8d7e-c213f2cb33ed%2FiStock_1219143039.jpg?rect=0%2C80%2C4215%2C2213&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "publishedAt": "2024-06-19T10:59:20Z",
-      "content": "A phone thats performing slowly is another red flag, says Nicholas Bains, a smartphone expert at Asurion. The phone will deliberately slow down its processing so it doesnt produce even more heat, tho… [+2159 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "YouTube"
-      },
-      "author": null,
-      "title": "Google’s $2 Trillion Business Model | How Google Earns Money? | Dhruv Rathee - Dhruv Rathee",
-      "description": "If you own a small business and want to rank higher organically, it's time to take your SEO strategy to the next level with ThatWare. ThatWare is offering a ...",
-      "url": "https://www.youtube.com/watch?v=ISc5_x_3MWM",
-      "urlToImage": "https://i.ytimg.com/vi/ISc5_x_3MWM/maxresdefault.jpg",
-      "publishedAt": "2024-06-19T10:23:24Z",
-      "content": null
-  },
-  {
-      "source": {
-          "id": "the-hindu",
-          "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Asus launches ROG Zephyrus G14 in India - The Hindu",
-      "description": null,
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/asus-launches-rog-zephyrus-g14-in-india/article68307393.ece",
-      "urlToImage": null,
-      "publishedAt": "2024-06-19T09:58:00Z",
-      "content": null
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "CNBCTV18"
-      },
-      "author": "Pihu Yadav",
-      "title": "HP unveils AI-powered EliteBook Ultra and OmniBook X, opens pre-booking in India - CNBCTV18",
-      "description": "These laptops are designed to be the thinnest in their class, promising up to 26 hours of battery life, making them ideal for professionals on the go.",
-      "url": "https://www.cnbctv18.com/technology/hp-elitebook-ultra-omnibook-x-ai-features-price-specifications-19430519.htm",
-      "urlToImage": "https://images.cnbctv18.com/uploads/2024/06/hp-2024-06-a088102fdb089b87d33dadf71001f9d5.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2024-06-19T09:51:04Z",
-      "content": "HP, on Wednesday, announced the pre-booking of its latest next-generation AI PCs, the HP EliteBook Ultra and HP OmniBook X.The HP EliteBook Ultra AI PC is catered towards enterprises, public sector o… [+1073 chars]"
-  },
-  {
-      "source": {
-          "id": null,
-          "name": "Moneycontrol"
-      },
-      "author": "Sandip Chakraborty",
-      "title": "CMF Phone 1 by Nothing launch date announced: All the details - Moneycontrol",
-      "description": "CMF by Nothing will also reveal the Watch Pro 2 and Buds Pro 2 alongside the Phone 1 at their upcoming Community Update event.",
-      "url": "https://www.moneycontrol.com/technology/cmf-phone-1-by-nothing-launch-date-announced-all-the-details-article-12751973.html",
-      "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/06/20240619092954_Screenshot-2024-06-19-at-2.59.16 PM.jpg",
-      "publishedAt": "2024-06-19T09:30:53Z",
-      "content": "Nothings sub-brand, CMF, has finally confirmed the launch date of the first smartphone globally. The company has also confirmed that the CMF Buds Pro 2 and CMF Watch Pro 2 will also be introduced alo… [+1316 chars]"
-  },
-  {
-      "source": {
-          "id": "the-times-of-india",
-          "name": "The Times of India"
-      },
-      "author": "TOI Tech Desk",
-      "title": "Oppo F27 Pro+ 5G smartphone to go on sale starting June 20: Price, offers and more - The Times of India",
-      "description": "MOBILES & TABLETS News: Oppo launched the rugged Oppo F27 Pro+ 5G in India, the first F-series smartphone with military grade durability.",
-      "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/oppo-f27-pro-5g-smartphone-to-go-on-sale-starting-june-20-price-offers-and-more/articleshow/111110078.cms",
-      "urlToImage": "https://static.toiimg.com/thumb/msid-111110049,width-1070,height-580,imgsize-71010,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-      "publishedAt": "2024-06-19T09:26:00Z",
-      "content": null
-  }
+        "source": {
+            "id": null,
+            "name": "Financial Express"
+        },
+        "author": "The Financial Express",
+        "title": "Google Chrome could be risking all your private data, warns government - The Financial Express",
+        "description": null,
+        "url": "https://www.financialexpress.com/life/technology-google-chrome-could-be-risking-all-your-private-data-warns-government-3529974/",
+        "urlToImage": null,
+        "publishedAt": "2024-06-20T10:30:25Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Indian Express"
+        },
+        "author": "The Indian Express",
+        "title": "OnePlus Ace 3 Pro to feature thinner 6,100 mAh Glacier battery with 100W charging support - The Indian Express",
+        "description": null,
+        "url": "https://indianexpress.com/article/technology/mobile-tabs/oneplus-glacier-6100-battery-technology-9404257/",
+        "urlToImage": null,
+        "publishedAt": "2024-06-20T10:22:47Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Business Standard"
+        },
+        "author": "Harsh Shivam",
+        "title": "Realme GT 6 smartphone, Buds Air 6 Pro wireless earbuds launched: Details - Business Standard",
+        "description": "Realme GT 6 launched in India: The Realme GT 6 smartphone is now available for pre-orders on Realme's official website, e-commerce platform Flipkart, and at select offline stores",
+        "url": "https://www.business-standard.com/technology/gadgets/realme-gt-6-smartphone-buds-air-6-pro-wireless-earbuds-launched-details-124062000568_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/20/thumb/fitandfill/400X400/1718872399-5034.jpeg",
+        "publishedAt": "2024-06-20T09:58:29Z",
+        "content": "The Realme GT 6 smartphone is now available for pre-orders on Realme's official website, e-commerce platform Flipkart, and at select offline stores\r\nRealme GT6\r\nHarsh ShivamNew Delhi\r\nRealme has laun… [+3568 chars]"
+    },
+    {
+        "source": {
+            "id": "the-hindu",
+            "name": "The Hindu"
+        },
+        "author": "The Hindu",
+        "title": "Sennheiser launches Accentum true wireless earbuds in India - The Hindu",
+        "description": null,
+        "url": "https://www.thehindu.com/sci-tech/technology/gadgets/sennheiser-launches-accentum-true-wireless-earbuds-in-india/article68311437.ece",
+        "urlToImage": null,
+        "publishedAt": "2024-06-20T09:45:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "TOI Tech Desk",
+        "title": "Vivo Y58 smartphone launched in India with 50MP camera and 6,000mAh battery: Price, offers and more - The Times of India",
+        "description": "MOBILES & TABLETS News: Vivo has launched the Y58 smartphone in India with a 50 MP AI portrait camera and a 6,000 mAh battery, priced at Rs 19,499.",
+        "url": "https://timesofindia.indiatimes.com/technology/mobiles-tabs/vivo-y58-smartphone-launched-in-india-with-50mp-camera-and-6000mah-battery-price-offers-and-more/articleshow/111137075.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-111137074,width-1070,height-580,imgsize-36576,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-06-20T09:38:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Financial Express"
+        },
+        "author": "The Financial Express",
+        "title": "WhatsApp to bring AR effects to audio, video calls to make them more fun, engaging: Details - The Financial Express",
+        "description": null,
+        "url": "https://www.financialexpress.com/life/technology-whatsapp-to-bring-ar-effects-to-audio-video-calls-to-make-them-more-fun-engaging-details-3529881/",
+        "urlToImage": null,
+        "publishedAt": "2024-06-20T09:21:22Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Hindustan Times"
+        },
+        "author": "HT Trending Desk",
+        "title": "From scooty to Lamborghini: Fantasy cricket expert Anurag Dwivedi adds ₹5 crore SUV to his fleet - Hindustan Times",
+        "description": "Fantasy cricket expert and YouTuber Anurag Dwivedi has added another luxury car to his fleet - a Lamborghini Urus worth ₹5 crore. | Trending",
+        "url": "https://www.hindustantimes.com/trending/from-scooty-to-lamborghini-fantasy-cricket-expert-anurag-dwivedi-adds-rs-5-crore-suv-to-his-fleet-101718874835243.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/06/20/1600x900/448385797_18098251165418984_9183228290972501164_n_1718875089463_1718875105882.jpg",
+        "publishedAt": "2024-06-20T09:19:40Z",
+        "content": "Fantasy cricket expert and YouTuber Anurag Dwivedi has added another luxury car to his fleet. The Lucknow-based content creator has acquired a Lamborghini Urus worth 5 crore, according to his latest … [+1856 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "NDTV News"
+        },
+        "author": null,
+        "title": "Microsoft And Google Chrome Users Targeted By Sophisticated Malware Campaign - NDTV",
+        "description": "Cyber experts warn about a sophisticated malware mimicking Microsoft and Google Chrome to steal sensitive information.",
+        "url": "https://www.ndtv.com/feature/microsoft-and-google-chrome-users-targeted-by-sophisticated-malware-campaign-5930168",
+        "urlToImage": "https://c.ndtvimg.com/2024-06/u16f1ceo_malware-spam-virus_625x300_20_June_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
+        "publishedAt": "2024-06-20T08:57:46Z",
+        "content": "Over 100,000 messages have targeted thousands of organizations globally.\r\nThe risk landscape on the internet has grown more complex as hackers come up with new strategies to take advantage of users w… [+2019 chars]"
+    },
+    {
+        "source": {
+            "id": "the-times-of-india",
+            "name": "The Times of India"
+        },
+        "author": "Online Bureau, ET Auto",
+        "title": "Boult launches CruiseCam to enhance road safety and connectivity - ETAuto",
+        "description": "The Boult CruiseCam X1 and X1 GPS are now offered at introductory prices of INR 2,999 and INR 3,999, respectively. These cameras can be purchased on Amazon, Flipkart, and on the company's official website, the company stated in its media release.",
+        "url": "https://auto.economictimes.indiatimes.com/news/auto-technology/boult-launches-cruisecam-to-enhance-road-safety-and-connectivity/111135236",
+        "urlToImage": "https://etimg.etb2bimg.com/thumb/msid-111135236,imgsize-13188,width-1200,height=765,overlay-etauto/auto-technology/boult-launches-cruisecam-to-enhance-road-safety-and-connectivity.jpg",
+        "publishedAt": "2024-06-20T08:38:29Z",
+        "content": ". This sensor automatically detects collisions and triggers emergency video recording, safeguarding critical evidence during accidents.\r\nNew Delhi: Boult has launched CruiseCam X1 and X1 GPS, a produ… [+3332 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Business Standard"
+        },
+        "author": "Prakruti Mishra",
+        "title": "Snapchat introduces Gen-AI advancements for enhanced AR experience: Details - Business Standard",
+        "description": "The suite of AI features from Snapchat will be available in upcoming months and will let users change the surroundings in the videos using augmented reality",
+        "url": "https://www.business-standard.com/technology/tech-news/snapchat-introduces-gen-ai-advancements-for-enhanced-ar-experience-details-124062000446_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/04/thumb/fitandfill/400X400/1643965346-7696.jpg",
+        "publishedAt": "2024-06-20T08:37:38Z",
+        "content": "The suite of AI features from Snapchat will be available in upcoming months and will let users change the surroundings in the videos using augmented reality\r\nPhoto: Bloomberg\r\nPrakruti MishraNew Delh… [+2034 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "The Guardian",
+        "title": "14 unusual video games to discover in 2024 - The Guardian",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9nYW1lcy9hcnRpY2xlLzIwMjQvanVuLzIwLzE0LXVudXN1YWwtdmlkZW8tZ2FtZXMtdG8tZGlzY292ZXItaW4tMjAyNNIBYGh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS9nYW1lcy9hcnRpY2xlLzIwMjQvanVuLzIwLzE0LXVudXN1YWwtdmlkZW8tZ2FtZXMtdG8tZGlzY292ZXItaW4tMjAyNA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-06-20T08:32:00Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Abplive.com"
+        },
+        "author": "Aashish Kumar Shrivastava",
+        "title": "Google Rolls Out Android 15 Beta 3 Version, Here's What's New - ABP Live",
+        "description": "After the rollout of the Android 15 Beta 3 version, Google has announced that the platform will reach 'Platform Stability'.",
+        "url": "https://news.abplive.com/technology/google-rolls-out-android-15-beta-3-version-release-date-download-update-key-features-improvements-bugs-fix-1696985",
+        "urlToImage": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/06/20/c87b7c1192a64bea906292a2e17ee9e51718871321771555_original.png?impolicy=abp_cdn&imwidth=1200",
+        "publishedAt": "2024-06-20T08:17:54Z",
+        "content": "Google has recently rolled out the Beta 3 update of Android 15 for its Pixel devices, namely- Pixel 6a, 6, and 6 Pro, Pixel 7a, 7, and 7 Pro, Pixel Fold, Pixel Tablet, Pixel 8a, 8, and 8 Pro. This up… [+4000 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "India TV News"
+        },
+        "author": "Om Gupta",
+        "title": "Xiaomi 14 Civi with dual selfie camera goes on sale in India: Check price, offers, availability - India TV News",
+        "description": "The sale of the smartphone started at 12PM. As part of the launch offer, the company is providing a discount on purchases made using selected bank cards. Here are all the details you need to know.",
+        "url": "https://www.indiatvnews.com/technology/news/xiaomi-14-civi-with-dual-selfie-camera-goes-on-sale-in-india-check-price-offers-availability-2024-06-20-937866",
+        "urlToImage": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2024/06/xiaomi-14-civi-1718870778.jpg",
+        "publishedAt": "2024-06-20T08:10:41Z",
+        "content": "Xiaomi launched the Xiaomi 14 Civi in the Indian market on June 12. The smartphones features have generated a lot of excitement, especially among selfie lovers. In less than 10 days after its launch,… [+1685 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Moneycontrol"
+        },
+        "author": "Sandip Chakraborty",
+        "title": "WhatsApp will soon let you share HD photos by default: All the details - Moneycontrol",
+        "description": "WhatsApp is rolling out a new update that lets them select HD quality as an option every time they send a photo or video to someone.",
+        "url": "https://www.moneycontrol.com/technology/whatsapp-will-soon-let-you-share-hd-photos-by-default-all-the-details-article-12752661.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/06/20240620064946_whatsapp-2560294_1280.jpg",
+        "publishedAt": "2024-06-20T07:46:32Z",
+        "content": "Meta-owned popular messaging platform, WhatsApp introduced the option to send HD photos or videos last year, which allowed users to share uncompressed media files with everyone. Now, Meta is introduc… [+1447 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Moneycontrol"
+        },
+        "author": "Diya Sharma",
+        "title": "Garena Free Fire MAX redeem codes for June 20, 2024: Win skins, bundles, diamonds, and more - Moneycontrol",
+        "description": "Every day, the developers of Garena Free Fire MAX release a fresh batch of redeem codes, each offering the potential to unlock a variety of rewards,",
+        "url": "https://www.moneycontrol.com/technology/garena-free-fire-max-redeem-codes-for-june-20-2024-win-skins-bundles-diamonds-and-more-article-12752688.html",
+        "urlToImage": "https://images.moneycontrol.com/static-mcnews/2024/06/20240620070723_garena2.jpg",
+        "publishedAt": "2024-06-20T07:07:45Z",
+        "content": "In the popular game Free Fire MAX, where players engage in battles against global adversaries, receiving exciting rewards like diamonds, pets, skins, and outfits is a major victory. Fortunately, thes… [+1199 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "India Today"
+        },
+        "author": "India Today Tech",
+        "title": "Oppo F27 Pro+ 5G available for sale starting today, check price and specs - India Today",
+        "description": "Oppo has launched its latest midrange smartphone the F27 Pro+ 5G in India with attractive offers and advanced features",
+        "url": "https://www.indiatoday.in/technology/news/story/oppo-f27-pro-5g-available-for-sale-starting-today-check-price-and-specs-2555614-2024-06-20",
+        "urlToImage": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202406/oppo-f27-pro-plus-134744759-16x9_2.jpg?VersionId=4uMI4AuujTUKpo3dFuqJFqbNBWaaVWwq",
+        "publishedAt": "2024-06-20T06:45:17Z",
+        "content": "Oppo's latest midrange smartphone, the F27 Pro+ 5G, is now available for purchase in India. The device is being sold through the OPPO Store, Flipkart, Amazon, and mainline retail outlets. The 128GB s… [+2215 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Business Standard"
+        },
+        "author": "Harsh Shivam",
+        "title": "ASUS ROG Zephyrus G14 (2024) gaming laptop launched in India: Check details - Business Standard",
+        "description": "The ASUS ROG Zephyrus G14, powered by AMD Ryzen 9 8945HS processor, is offered with up to NVIDIA GeForce RTX 4060 graphic processing unit (GPU)",
+        "url": "https://www.business-standard.com/technology/gadgets/asus-rog-zephyrus-g14-2024-gaming-laptop-launched-in-india-check-details-124062000331_1.html",
+        "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/20/thumb/featurecrop/400X400/1718865557-5971.jpg",
+        "publishedAt": "2024-06-20T06:44:32Z",
+        "content": "The ASUS ROG Zephyrus G14, powered by AMD Ryzen 9 8945HS processor, is offered with up to NVIDIA GeForce RTX 4060 graphic processing unit (GPU)\r\nASUS ROG Zephyrus G14 (2024)\r\nHarsh ShivamNew Delhi\r\nA… [+2456 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "Apple Suspends Work on High-end VR Headset - moneycontrol",
+        "description": "Apple has suspended work on its next high-end Vision headset. It cited an employee at a manufacturer making key components for the mixed-reality Vision Pro. ...",
+        "url": "https://www.youtube.com/watch?v=GoOSdD4W7iw",
+        "urlToImage": "https://i.ytimg.com/vi/GoOSdD4W7iw/maxresdefault.jpg",
+        "publishedAt": "2024-06-20T06:19:19Z",
+        "content": null
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gadgets360.com"
+        },
+        "author": "Shaurya Tomer, Siddharth Suvarna",
+        "title": "Infinix ZeroBook Ultra AI PC Set to Launch in India on This Date - Gadgets 360",
+        "description": "Infinix ZeroBook Ultra is set to launch in India on June 27, the company confirmed on Wednesday. Teasing an “era of AI PCs”, Infinix says its upcoming laptop will boast generative artificial intelligence (AI) capabilities and Intel AI Boost technology, helpin…",
+        "url": "https://www.gadgets360.com/laptops/news/infinix-zerobook-ultra-ai-pc-launch-in-india-june-27-expected-specifications-5928224",
+        "urlToImage": "https://i.gadgets360cdn.com/large/infinix_zerobook_ultra_1718852872507.jpg",
+        "publishedAt": "2024-06-20T05:08:26Z",
+        "content": "Infinix ZeroBook Ultra will launch in India next week, the company confirmed on Wednesday. It will be Infinix's second product launch this month and will closely follow the introduction of the Note 4… [+1647 chars]"
+    },
+    {
+        "source": {
+            "id": "google-news",
+            "name": "Google News"
+        },
+        "author": "ABP Live",
+        "title": "NYT Strands Answers For June 20: How To Play, Today’s Words, Spangram, Everything Else You Need To Know - ABP Live",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL25ld3MuYWJwbGl2ZS5jb20vZ2FtaW5nL255dC1zdHJhbmRzLWFuc3dlcnMtdG9kYXktanVuZS0yMC0yMDI0LXdvcmRzLXNvbHV0aW9uLXNwYW5ncmFtLXRvZGF5LWhvdy10by1wbGF5LXdhdGNoLXZpZGVvLXR1dG9yaWFsLTE2OTY5MDLSAZEBaHR0cHM6Ly9uZXdzLmFicGxpdmUuY29tL2dhbWluZy9ueXQtc3RyYW5kcy1hbnN3ZXJzLXRvZGF5LWp1bmUtMjAtMjAyNC13b3Jkcy1zb2x1dGlvbi1zcGFuZ3JhbS10b2RheS1ob3ctdG8tcGxheS13YXRjaC12aWRlby10dXRvcmlhbC0xNjk2OTAyL2FtcA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-06-20T03:38:21Z",
+        "content": null
+    }
        
       ]
     
